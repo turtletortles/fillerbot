@@ -15,4 +15,5 @@ pip install -r requirements.txt
 ## Usage
 Run directly with Python:
 ```bash
-python3 main.py```
+python3 main.py
+```
