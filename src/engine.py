@@ -1,6 +1,6 @@
 from types import FunctionType
-from board import Board
-from tile import Colors
+from .board import Board
+from .tile import Colors
 import asyncio
 
 class Engine:

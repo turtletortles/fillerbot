@@ -7,10 +7,10 @@ from textual.message import Message
 from rich.panel import Panel
 from rich.columns import Columns
 from rich.console import Group
-from board import Board
-from tile import Colors
-from engine import Engine
-from griddetection import GridDetection
+from .board import Board
+from .tile import Colors
+from .engine import Engine
+from .griddetection import GridDetection
 
 class Grid(Widget):
     n = 7

@@ -1,5 +1,4 @@
-from tile import Tile
-from tile import Colors
+from .tile import Tile, Colors
 import math
 import random
 

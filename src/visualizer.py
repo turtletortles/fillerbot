@@ -1,8 +1,8 @@
 from rich.console import Console
 from rich.panel import Panel
 from rich.columns import Columns
-from board import Board
-from tile import Colors
+from .board import Board
+from .tile import Colors
 
 class Visualizer:
     square = '■'
